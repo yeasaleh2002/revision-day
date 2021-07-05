@@ -1,0 +1,116 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+
+    font-size: 50px;
+
+}
+
+.revision-1{
+
+ display: flex;
+ padding-left: 50px;
+ padding-bottom: 90px;
+
+
+}
+
+.revision-2{
+
+    background-image: url("top-banner.png");
+    background-repeat: no-repeat;
+   
+   }
+
+  
+
+.half-width{
+
+    width: 50%;
+    padding-left: 5px;
+}
+
+.half-width img{
+
+    width : 50%;
+    
+    
+}
+
+.half-width-img{
+
+    
+    border-radius: 50%;
+    
+}
+
+.ankar{
+
+    border-image: linear-gradient(red, blue)
+}
+
+.span-color{
+
+    color: tomato;
+
+}
+
+.hyer-link{
+
+    direction: none;
+}
+
+footer{
+
+    color: white;
+    background-color:orangered;
+    text-align: center;
+}
+
+.shadow{
+
+   
+        border: 1px solid;
+        padding: 10px;
+        box-shadow: 5px 10px 30px gray;
+}
+
+.exprience{
+
+
+    display: flex;
+    padding-bottom: 100px;
+    
+   
+}
+
+.half-width2{
+
+    width : 45%;
+    margin: 20px;
+    padding: 10px;
+    
+}
+
+.bg2{
+
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.bg4{
+
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#borderimg{
+    border-style: 1ps solid;
+    border-image: linear-gradient( salmon , tomato)
+    border-image-slice:1;
+}
